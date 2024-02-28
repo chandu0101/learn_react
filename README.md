@@ -11,7 +11,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] https://www.youtube.com/watch?v=n4R2E7O-Ngo
 - [ ] https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 - [ ] https://tailwindcomponents.com/
-- [ ] https://www.youtube.com/watch?v=zzWypOl4JkY
+- [ ] [Fullstack AI Form Builder Tutorial with Next JS, TypeScript, Drizzle ORM, React, OpenAI, Stripe](https://www.youtube.com/watch?v=zzWypOl4JkY)
 - [ ] https://github.com/fireship-io/tailwind-dashboard
 - [ ] https://www.youtube.com/watch?v=mJgBOIoGihA
 - [ ] https://www.youtube.com/watch?v=HGTJBPNC-Gw
