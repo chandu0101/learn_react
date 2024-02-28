@@ -20,3 +20,4 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Web Design for Beginners | FREE COURSE](https://www.youtube.com/watch?v=B-ytMSuwbf8)
 - [ ] [Figma Tutorial | Beginners' Quick Start Guide](https://www.youtube.com/watch?v=zbVrPZeXZc0)
 - [ ] [Learn CSS in one hour](https://www.youtube.com/watch?v=wRNinF7YQqQ)
+- [ ] [React Native Full 8 Hours Course (Expo, Expo Router, Supabase)](https://www.youtube.com/watch?v=rIYzLhkG9TA)
