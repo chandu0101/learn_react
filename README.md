@@ -22,3 +22,4 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Learn CSS in one hour](https://www.youtube.com/watch?v=wRNinF7YQqQ)
 - [ ] [React Native Full 8 Hours Course (Expo, Expo Router, Supabase)](https://www.youtube.com/watch?v=rIYzLhkG9TA)
 - [ ] [React Native Full Stack App | React Native Project | Full Tutorial | Expo, HyGraph](https://www.youtube.com/watch?v=Zs-W12TpAeM)
+- [ ] [Next Auth V5 - Advanced Guide (2024)](https://www.youtube.com/watch?v=1MTyCvS05V4)
