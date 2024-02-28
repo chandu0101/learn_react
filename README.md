@@ -27,3 +27,4 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Next JS Tutorials](https://www.youtube.com/@codewithantonio/videos)
 - [ ] [React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More)](https://www.youtube.com/watch?v=AkEnidfZnCU)
 - [ ]  [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
+- [ ]  [Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React](https://www.youtube.com/watch?v=wm5gMKuwSYk)
