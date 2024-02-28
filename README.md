@@ -14,3 +14,4 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] https://www.youtube.com/watch?v=zzWypOl4JkY
 - [ ] https://github.com/fireship-io/tailwind-dashboard
 - [ ] https://www.youtube.com/watch?v=mJgBOIoGihA
+- [ ] https://www.youtube.com/watch?v=HGTJBPNC-Gw
