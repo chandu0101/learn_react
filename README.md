@@ -31,6 +31,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ]  [Build 25 React Projects – Tutorial](https://www.youtube.com/watch?v=5ZdHfJVAY-s)
 - [ ]  [Build a Full Stack NEXT.js 14 Social Media App | Clerk, MongoDB, Tailwind CSS, React](https://www.youtube.com/watch?v=yXSdYD_JHN4)
 - [ ]  [Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023](https://www.youtube.com/watch?v=c_-b_isI4vg)
+- [ ]  [Create a Stunning 3D Animated Portfolio Website with Next.js 14, Three.js, GSAP, and Prismic](https://www.youtube.com/watch?v=rXDCAAkiC-s)
 
 - [ ] [cs50 react native](https://www.edx.org/learn/react-native/harvard-university-cs50-s-mobile-app-development-with-react-native)
 - [ ] [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
