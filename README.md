@@ -40,6 +40,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Stunning SaaS Website Design In Figma (2023)](https://www.youtube.com/watch?v=yC0JPJ2Uf6k)
 - [ ] [Figma Tutorial For Beginners (2023) Everything To Get Started -SaaS Series](https://www.youtube.com/watch?v=sEvlKQTx4Tc)
 - [ ] [Javascript mastery videos](https://www.youtube.com/@javascriptmastery/videos)
+- [ ] [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
 
 
 
