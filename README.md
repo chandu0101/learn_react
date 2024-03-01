@@ -43,6 +43,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
 - [ ] [Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours](https://www.youtube.com/watch?v=f2EqECiTBL8)
 - [ ] [Build a Fullstack Food Ordering App with Next.js 14 (react.js, mongo, tailwind)](https://www.youtube.com/watch?v=nGoSP3MBV2E)
+- [ ] [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 
 
