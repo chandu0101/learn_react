@@ -50,6 +50,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Master ReactJS in 7 Hours with 10 Real-World Projects 2023](https://www.youtube.com/watch?v=XrwsMN2IWnE)
 - [ ] [Real Time Chat App with React and Node.js | JWT, Socket.io, MongoDB | Beginner Friendly Full Course](https://www.youtube.com/watch?v=HwCqsOis894)
 - [ ] [MERN Stack Project: Build a Modern Real Estate Marketplace with react MERN (jwt, redux toolkit)](https://www.youtube.com/watch?v=VAaUy_Moivw)
+- [ ] [Build & Launch an Enterprise-Level Food Ordering Platform: React Node.js MongoDB Auth Stripe & More!](https://www.youtube.com/watch?v=ardeKHEN1j4)
 
 
 
