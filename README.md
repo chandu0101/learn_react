@@ -48,6 +48,7 @@ Create an Airbnb Clone with Next.js 14, Kinde, Supabase, Prisma and Tailwind
 - [ ] [Next.js 14 Netflix Clone using React, Supabase, Next-Auth, Prisma and Tailwind.css](https://www.youtube.com/watch?v=mTW3V2IpOrg)
 - [ ] [Build & Deploy NextJs Eraser.io App Clone | Full Stack React App | Convex, Typescript, Tailwind Css](https://www.youtube.com/watch?v=sxn2GPQjJgc)
 - [ ] [Master ReactJS in 7 Hours with 10 Real-World Projects 2023](https://www.youtube.com/watch?v=XrwsMN2IWnE)
+- [ ] [Real Time Chat App with React and Node.js | JWT, Socket.io, MongoDB | Beginner Friendly Full Course](https://www.youtube.com/watch?v=HwCqsOis894)
 
 
 
