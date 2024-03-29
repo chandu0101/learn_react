@@ -50,6 +50,7 @@
 - [ ] [Build & Launch an Enterprise-Level Food Ordering Platform: React Node.js MongoDB Auth Stripe & More!](https://www.youtube.com/watch?v=ardeKHEN1j4)
 - [ ] [Build a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)](https://www.youtube.com/watch?v=dTFXufTgfOE)
 - [ ] [Build a File Storage App with Role Based Authorization (Next.js, Shadcn, Typescript)](https://www.youtube.com/watch?v=27hMNWcsa-Y)
+- [ ] https://morioh.com/a/e2f5aa39ca23/react-performance-optimization-tips-and-tricks
 
 
 
