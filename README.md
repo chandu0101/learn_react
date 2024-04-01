@@ -51,6 +51,7 @@
 - [ ] [Build a Fullstack E-commerce using Next.js (react.js, mongo, tailwind, styled components)](https://www.youtube.com/watch?v=dTFXufTgfOE)
 - [ ] [Build a File Storage App with Role Based Authorization (Next.js, Shadcn, Typescript)](https://www.youtube.com/watch?v=27hMNWcsa-Y)
 - [ ] https://morioh.com/a/e2f5aa39ca23/react-performance-optimization-tips-and-tricks
+- [ ] https://aralroca.com/blog/partial-prerendering?utm_source=newsletter.reactdigest.net&utm_medium=newsletter&utm_campaign=flaky-tests-in-react-detection-prevention-and-tools
 
 
 
