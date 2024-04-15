@@ -54,6 +54,7 @@
 - [ ] https://aralroca.com/blog/partial-prerendering?utm_source=newsletter.reactdigest.net&utm_medium=newsletter&utm_campaign=flaky-tests-in-react-detection-prevention-and-tools
 - [ ] https://morioh.com/a/74a05d49274d/converts-figma-mocks-to-react-on-nextjs-with-visual-copilot
 - [ ] https://morioh.com/a/694af034a6ba/best-50-react-interview-questions-for-frontend-developers-in-2019#google_vignette
+- [ ] https://github.com/PartPilotLab/PartPilot
 
 
 
