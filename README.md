@@ -55,6 +55,7 @@
 - [ ] https://morioh.com/a/74a05d49274d/converts-figma-mocks-to-react-on-nextjs-with-visual-copilot
 - [ ] https://morioh.com/a/694af034a6ba/best-50-react-interview-questions-for-frontend-developers-in-2019#google_vignette
 - [ ] https://github.com/PartPilotLab/PartPilot
+- [ ] [Can it be done in React Native? - Season 3](https://www.youtube.com/playlist?list=PLkOyNuxGl9jwARbZbl1n_Tehu_BPPWumn)
 
 
 
