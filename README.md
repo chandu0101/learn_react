@@ -59,7 +59,7 @@
 
 # React Native
 
--[ ] https://github.com/anisurrahman072/React-Native-Advanced-Guide
+- [ ] https://github.com/anisurrahman072/React-Native-Advanced-Guide
 
 
 
