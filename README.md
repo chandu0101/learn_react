@@ -67,4 +67,7 @@
 [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw&t=1s)
 
 
+# TSCONFIG
+
+https://github.com/tsconfig/bases
 
